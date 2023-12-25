@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nishant-trivedi-🇮🇳-490590175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-trivedi-🇮🇳-490590175" height="30" width="40" /></a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=nishanttrivedi474@gmail.com)](https://twitter.com/scholzj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=nishanttrivedi474@gmail.com)](nishanttrivedi474@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/scholzj/)](https://www.linkedin.com/in/scholzj/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCiT1zgJHHLhd5X-SyiLd2dw)](https://www.youtube.com/channel/UCiT1zgJHHLhd5X-SyiLd2dw)
 
