@@ -18,62 +18,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nishant-trivedi-%F0%9F%87%AE%F0%9F%87%B3-490590175//)](https://www.linkedin.com/in/nishant-trivedi-%F0%9F%87%AE%F0%9F%87%B3-490590175//)
+<a href="https://www.linkedin.com/in/nishant-trivedi-%F0%9F%87%AE%F0%9F%87%B3-490590175/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+<a href="mailto:pedro.sales.nishanttrivedi474@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<img class="devsite-landing-row-header-icon" alt="android" src="https://developer.android.com/static/images/logos/android.svg?dcb_=0.6768581523441926" srcset="" width="40" height="40">
-
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-
-<img src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" alt="css3" width="40" height="40"/>
-
-<img src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" alt="Html" width="40" height="40"/>
-
-<img src="https://mytat.co/uploads/opportunities/js3.png" alt="Html" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-<img src="https://bitperfect.at/assets/blog-images/Headerbild-Was-ist-GitHub-v2.png" alt="github" width="55" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-
-<img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Programming-Java-Coffee-Cup-Logo-icon.png" alt="java" width="50" height="40"/>
-  
-<img src="https://mongodb-js.github.io/leaf/mongodb-leaf_256x256@2x.png" alt="mongodb" width="40" height="40"/>
-
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="mysql" width="40" height="40"/>
-
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="oracle" width="55" height="40"/>
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-
-<img src="https://e7.pngegg.com/pngimages/214/636/png-clipart-unreal-tournament-unreal-engine-4-fortnite-others-thumbnail.png" alt="unreal" width="40" height="40"/>
-
-<img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VSCode" width="40" height="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij Idea" width="40" height="40"/>
-
-<img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,angular,blender,git,github,javascript,firebase,mongodb,java,mysql,dart,flutter,postgresql,postman,spring,unity,unreal,eclipse" />
 </p>
 
 
