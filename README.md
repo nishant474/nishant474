@@ -1,4 +1,4 @@
-<img src='[download.gif]' alt="banner"></img>
+![Java_GIF_For_PROFILE](https://github.com/nishant474/nishant474/assets/80538677/956a7d2b-6053-4bfa-b350-e6569d3b5aac)
 
 <h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
 <h3 align="center">A passionate Java Developer</h3>
