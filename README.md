@@ -1,13 +1,9 @@
-
-![download](https://github.com/nishant474/nishant474/assets/80538677/f00db519-fbd6-4e31-a5e6-bdd5ccd8e489)
 <h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-![Java_GIF_For_PROFILE](https://github.com/nishant474/nishant474/assets/80538677/24a3d861-0f56-4716-a2bf-076d3105d20a)
+![download](https://github.com/nishant474/nishant474/assets/80538677/bc4ef5d1-e7d4-4ec8-9fb0-770d245779cf)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant474&label=Profile%20views&color=0e75b6&style=flat" alt="nishant474" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant474" alt="nishant474" /></a> </p>
 
 - 🌱 I’m currently learning **Hibernate Framework and Spring Framework**
 
