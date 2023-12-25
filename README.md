@@ -18,11 +18,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishant-trivedi-🇮🇳-490590175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-trivedi-🇮🇳-490590175" height="30" width="40" /></a>
-<a href="https://instagram.com/t_nishant_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_nishant_1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/t_nishant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="t_nishant" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nishant_474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishant_474" height="30" width="40" /></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=nishanttrivedi474@gmail.com)](https://twitter.com/scholzj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/scholzj/)](https://www.linkedin.com/in/scholzj/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCiT1zgJHHLhd5X-SyiLd2dw)](https://www.youtube.com/channel/UCiT1zgJHHLhd5X-SyiLd2dw)
+
 <a href="https://www.leetcode.com/nishant_trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant_trivedi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/t_nishant_474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="t_nishant_474" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
