@@ -1,8 +1,8 @@
-![Java_GIF_For_PROFILE](https://github.com/nishant474/nishant474/assets/80538677/956a7d2b-6053-4bfa-b350-e6569d3b5aac)
 
+![download](https://github.com/nishant474/nishant474/assets/80538677/f00db519-fbd6-4e31-a5e6-bdd5ccd8e489)
 <h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
 <h3 align="center">A passionate Java Developer</h3>
-<img align="right" alt="Coding" width="400" src="Java_GIF_For_PROFILE"/>
+![Java_GIF_For_PROFILE](https://github.com/nishant474/nishant474/assets/80538677/956a7d2b-6053-4bfa-b350-e6569d3b5aac)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant474&label=Profile%20views&color=0e75b6&style=flat" alt="nishant474" /> </p>
 
