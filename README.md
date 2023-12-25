@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Java Developer</h3>
 
 ![download](https://github.com/nishant474/nishant474/assets/80538677/bc4ef5d1-e7d4-4ec8-9fb0-770d245779cf)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant474&label=Profile%20views&color=0e75b6&style=flat" alt="nishant474" /> </p>
 
 - 🌱 I’m currently learning **Hibernate Framework and Spring Framework**
@@ -17,13 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nishant-trivedi-🇮🇳-490590175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-trivedi-🇮🇳-490590175" height="30" width="40" /></a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanttrivedi474@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nishant-trivedi-%F0%9F%87%AE%F0%9F%87%B3-490590175//)](https://www.linkedin.com/in/nishant-trivedi-%F0%9F%87%AE%F0%9F%87%B3-490590175//)
-
-
-<a href="https://www.leetcode.com/nishant_trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant_trivedi" height="30" width="40" /></a>
 
 </p>
 
