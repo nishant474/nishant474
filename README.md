@@ -34,9 +34,16 @@
 <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,angular,blender,git,github,javascript,firebase,mongodb,java,mysql,dart,flutter,postgresql,postman,spring,unity,unreal,eclipse" />
 </p>
 
+<h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant474&show_icons=true&locale=en&layout=compact" alt="nishant474" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant474&show_icons=true&locale=en" alt="nishant474" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant474&" alt="nishant474" /></p>
+
+
