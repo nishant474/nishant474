@@ -1,4 +1,4 @@
-<img src='download.gif' alt="banner"></img>
+<img src='[download.gif]' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
 <h3 align="center">A passionate Java Developer</h3>
