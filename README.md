@@ -7,11 +7,6 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant474&label=Profile%20views&color=0e75b6&style=flat" alt="nishant474" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant474" alt="nishant474" /></a> </p>
-
 - 🌱 I’m currently learning **Hibernate Framework and Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishant474](https://github.com/nishant474)
