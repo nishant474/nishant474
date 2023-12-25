@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
+<h1 align="center">Hi, I'm Nishant Trivedi</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
 ![download](https://github.com/nishant474/nishant474/assets/80538677/bc4ef5d1-e7d4-4ec8-9fb0-770d245779cf)
