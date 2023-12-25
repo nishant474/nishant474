@@ -2,7 +2,9 @@
 ![download](https://github.com/nishant474/nishant474/assets/80538677/f00db519-fbd6-4e31-a5e6-bdd5ccd8e489)
 <h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
 <h3 align="center">A passionate Java Developer</h3>
-![Java_GIF_For_PROFILE](https://github.com/nishant474/nishant474/assets/80538677/956a7d2b-6053-4bfa-b350-e6569d3b5aac)
+![Java_GIF_For_PROFILE](https://github.com/nishant474/nishant474/assets/80538677/6c2e4bd8-0525-42a2-a948-06ae4b315567)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant474&label=Profile%20views&color=0e75b6&style=flat" alt="nishant474" /> </p>
 
