@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishant+Trivedi!;+A+passionate+Java+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishant+Trivedi!;+A+passionate+Software+Engineer!;" />
 </h1>
 
 ![download](https://github.com/nishant474/nishant474/assets/80538677/bc4ef5d1-e7d4-4ec8-9fb0-770d245779cf)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant474&label=Profile%20views&color=0e75b6&style=flat" alt="nishant474" /> </p>
 
-- 🌱 I’m currently learning **Hibernate Framework and Spring Framework**
+- 🌱 I’m currently learning **Dot Net Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishant474](https://github.com/nishant474)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **nishanttrivedi474@gmail.com**
 
